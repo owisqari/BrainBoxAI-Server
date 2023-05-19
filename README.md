@@ -16,7 +16,7 @@ To get started with BrainboxGPT, you will need to:
     Run npm install to install the dependencies.
     Run npm run dev to start the server.
 
-The app will be available at http://localhost:3000.
+The app will be available at http://localhost:8080.
 Usage
 
 To use BrainboxGPT, you can simply type a question into the text box and press enter. The app will then generate an answer.
