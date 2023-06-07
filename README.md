@@ -1,6 +1,6 @@
-# BrainBoxGPT
+# BrainBoxAI
 
-BrainboxGPT is a web application that uses the Bard API to answer questions. It is written in Node.js and uses EJS templates.
+BrainboxAI is a web application that uses the Bard API to answer questions. It is written in Node.js and uses EJS templates.
 Features
 
     Can answer a wide range of questions, including factual, open-ended, and creative questions.
